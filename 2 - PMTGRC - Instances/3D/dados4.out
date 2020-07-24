@@ -1,0 +1,7 @@
+IBM ILOG AMPL 12.1.0 (5724-Y45) AMPL Version 20090327 (x86_win32)
+Error at _cmdno 5 executing "solve" command
+(file lotcut.run, line 16, offset 427):
+
+	Too much memory used -- 2027562000 bytes; couldn't get 268435456 more.
+Highest address used = 4294967295.
+
